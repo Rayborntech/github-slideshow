@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+The rain falls hard, I fall harder.
 Use the left arrow to go back!
